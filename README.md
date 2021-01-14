@@ -1,4 +1,4 @@
-# nametils
+# Nametils
 Bag of words classification of personal names
 
 Usage:
