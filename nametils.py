@@ -8,3 +8,5 @@ class name_classifier():
     def predict_names(self, per_name):
         predictions = predict_personal_names(maximum_word_count(input_word(per_name)))
         return predictions
+    
+    
