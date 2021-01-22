@@ -1,5 +1,5 @@
 # Nametils
-Bag-of-words classification of russian personal names.
+Bag-of-words classificator of russian personal names.
 
 Usage:
 
