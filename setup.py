@@ -3,7 +3,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 setup(
-    author='Andrey bondar',
+    author='Andrey Bondar',
     author_email='andreybondar@yahoo.com',
     description="Bag-of-words classificator of russian personal names.",
     license='MIT',
