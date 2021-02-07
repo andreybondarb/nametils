@@ -1,4 +1,4 @@
-# Nametils
+# nametils
 Bag-of-words classificator of russian personal names.
 
 To install:
