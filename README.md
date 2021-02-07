@@ -7,7 +7,7 @@ To install:
 
 Usage:
 
-`from nametils import name_classifier`
+`from Nametils.nametils import name_classifier`
 
 `model = name_classifier()`
 
