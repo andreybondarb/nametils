@@ -3,7 +3,7 @@ Bag-of-words classificator of russian personal names.
 
 To install:
 
-`pip install -e git+https://github.com/andreybondarb/Nametils.git#egg=Nametils`
+`pip install -e git+https://github.com/andreybondarb/nametils.git#egg=nametils`
 
 Usage:
 
