@@ -1,7 +1,7 @@
 # nametils
 Bag-of-words classificator of russian personal names.
 
-To install:
+To install execute this command in your CLI:
 
 `pip install -e git+https://github.com/andreybondarb/nametils.git#egg=nametils`
 
